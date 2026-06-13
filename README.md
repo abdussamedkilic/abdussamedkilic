@@ -7,7 +7,7 @@ I build data-intensive backend systems and full-stack web applications.
 
 ## Current Focus
 
-- Backend services and data pipelines for a Continuous Threat Exposure Management platform indexing **400M+ domains, 2B+ subdomains, 200B+ DNS records**.
+- Backend services and data pipelines for a Continuous Threat Exposure Management platform indexing.
 - Operating large-scale data infrastructure: **Apache Airflow / Cloud Composer, Kafka, RabbitMQ, MongoDB clusters, Elasticsearch** indices running on **GCP**.
 - Daily work with modern LLM coding agents — **Claude (API + Claude Code), Gemini, GLM-5** — and **n8n** for workflow automation.
 
